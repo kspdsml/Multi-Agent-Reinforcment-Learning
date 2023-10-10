@@ -26,7 +26,7 @@ This project serves as an educational and illustrative resource, showcasing prof
 
 ## Presentation
 
-For a deeper understanding of the project's nuances and findings, please refer to the accompanying presentation provided in the "Project-Presentation.pptx" file.
+For a deeper understanding of the project's nuances and findings, please refer to the accompanying presentation provided in the "Project-Presentation.pdf" file.
 
 ## License
 
